@@ -1,0 +1,15 @@
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\bin\Debug\PT_lab4.exe.config
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\bin\Debug\PT_lab4.exe
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\bin\Debug\PT_lab4.pdb
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\MainWindow.g.cs
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\App.g.cs
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4_MarkupCompile.cache
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4_MarkupCompile.lref
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\MainWindow.baml
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4.g.resources
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4.Properties.Resources.resources
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4.exe
+C:\Users\alex\source\repos\PT_lab4\PT_lab4\obj\Debug\PT_lab4.pdb
